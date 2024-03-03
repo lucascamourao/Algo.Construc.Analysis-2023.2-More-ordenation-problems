@@ -1,7 +1,8 @@
-Exercícios de Construção e Análise de Algoritmos 2023.2
-Universidade Federal do Ceará
-Prof. Dr. Carlos Eduardo Fisch de Brito
+# Algorithm Construction and Analysis Exercises 2023.2
+## Federal University of Ceará
+## Prof. Dr. Carlos Eduardo Fisch de Brito
 
-Resolvido por: Lucas Cabral Amador Mourão 
+By: Lucas Cabral Amador Mourão 
 
-Mais problemas de ordenação de listas. 
+Mais problemas de ordenação de listas. <br/>
+More list ordenation problems.
