@@ -4,6 +4,12 @@ Temos uma lista com n elementos. Queremos ordenar os elememtos por blocos de rai
 posições 0 até (raiz_n - 1), vai ser ordenado. Em seguida, o segundo bloco, que vai das posições (raiz_n) até ((2 * raiz_n) - 1) é
 ordenado. Dessa forma, os blocos vão sendo ordenados até o último bloco, que vai das posições ((n - 1) * raiz_n) até ((n * raiz_n) - 1). 
 Note que, não necessariamente, a lista completa estará ordenada entre si. 
+
+'Square root of n' sorting problem:
+We have a list of length 'n'. We want to order the elements by blocks of size square root of n. Therefore, the first block, which goes from
+positions 0 to (root_n - 1), will be sorted. Then, the second block, which goes from positions (root_n) to ((2 * root_n) - 1) is
+sorted. This way, the blocks are ordered until the last block, which goes from positions ((n - 1) * root_n) to ((n * root_n) - 1).
+Note that the complete list will not necessarily be fully ordered.
 */
 
 #include <iostream>
