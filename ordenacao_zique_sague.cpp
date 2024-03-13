@@ -3,6 +3,11 @@ Problema da ordenação zigue-zague:
 Temos uma lista com n elementos. Queremos ordenar os elememtos da seguinte forma: o primeiro elemento é o menor, o segundo é o maior,
 o terceiro elemento é o segundo menor, o quarto elemento é o segundo maior, e por ai vai. 
 Note que, não necessariamente, a lista completa estará ordenada entre si. 
+
+ZigZag sorting problem:
+We have a list of length 'n'. We want to order the elements as follows: the first element is the smallest, the second is the largest,
+the third element is the second smallest, the fourth element is the second largest, and so on.
+Note that the complete list will not necessarily be fully ordered.
 */
 
 #include <iostream>
