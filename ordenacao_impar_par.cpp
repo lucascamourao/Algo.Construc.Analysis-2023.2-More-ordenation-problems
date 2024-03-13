@@ -3,6 +3,11 @@ Problema da ordenação impar-par:
 Temos uma lista com n elementos. Queremos ordenar todos os elementos nas posições pares, ou seja, posição 0, 2, ... e os
 elementos das posições ímpares 1, 3, ..., separadamente. Ao final, teremos uma só lista, mas as posições pares estarão ordenadas
 e as posições ímpares também. Note que, não necessariamente, a lista completa estará ordenada entre si. 
+
+Odd-even sorting problem:
+We have a list of length 'n'. We want to sort all the elements in the even positions, like, position 0, 2, ... and the
+elements in odd positions 1, 3, ..., separately. In the end, we will have only one list, but the even positions will be ordered
+and the odd positions too. Note that the entire list will not necessarily be fully ordered.
 */
 
 #include <iostream>
