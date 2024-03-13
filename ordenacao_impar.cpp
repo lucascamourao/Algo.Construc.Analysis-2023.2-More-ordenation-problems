@@ -1,10 +1,16 @@
 /*
-Problema da ordenação ímpar:
+[PT - BR] Problema da ordenação ímpar:
 Temos uma lista com n elementos. Queremos ordenar todas as posições da lista cujos elementos são ímpares. Desse modo, se as posições 1, 3, 4, 5 e 10 
 são elementos ímpares, estes serão ordenados entre si. O resto das posições permanecem no mesmo lugar. É como se estivessemos ignorando as posições 
 com elementos pares.
 Note que, não necessariamente, a lista completa estará ordenada entre si. 
-*/ 
+
+[ENGLISH] Odd sorting problem:
+We have a list of length 'n'. We want to sort all the positions in the list in which the elements are odd. Therefore, if the positions 1, 3, 4, 5 and 10
+have odd elements, these will be ordered among themselves. The rest of the positions remain in the same place. It's like we are ignoring the positions
+with even elements.
+Note that the entire list will not necessarily be fully ordered. 
+*/
 
 #include <iostream>
 
